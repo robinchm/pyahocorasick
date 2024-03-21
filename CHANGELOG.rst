@@ -3,7 +3,17 @@ Changelog
 =============
 
 
-2.0.0 (2022-04-xx)
+2.1.0 (2024-03-21)
+--------------------------------------------------
+
+- Drop support for Python 3.6 and 3.7. Use older version for pre-built wheels.
+  Note that it may work on these older veriosn, we are just no longer supporting
+  and testing these Python versions 
+
+- Add support for Python 3.12
+
+
+2.0.0 (2023-01-14)
 --------------------------------------------------
 
 - Drop support for Python 2
